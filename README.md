@@ -3,11 +3,11 @@
 ## Instructions for Peer Reviewer
 
 ### Run Locally (Jupyter)
-1. Clone this repository:
+1. Clone this repository by pasting into your terminal:
 
-   git clone [https://github.com/cjsaunders01/EEC174-Lab2.git](https://github.com/cjsaunders01/EEC174-Lab2.git)
+   a. git clone [https://github.com/cjsaunders01/EEC174-Lab2.git](https://github.com/cjsaunders01/EEC174-Lab2.git)
    
-   cd EEC174-Lab2
+   b. cd EEC174-Lab2
 
 3. Install required packages:
    
